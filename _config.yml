@@ -1,0 +1,23 @@
+name: Narrativist
+favicon: null
+layout_spectrum: 0.5495610807556659
+typography_spectrum: 0.08052104315720499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9490707563236356
+  lightness: 0.1402421782258898
+  saturation: 0.6799882594496012
+  rhythmicContrast: 0.9997098247986287
+purpose: []
